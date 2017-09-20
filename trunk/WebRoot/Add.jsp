@@ -1,0 +1,49 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+		<a href="Mem_AddListSql/addVouch">添加单据</a>
+		</br>
+		</br>
+		</br>
+		<a href="Mem_AddListSql/addGrid">添加列表</a>
+		</br>
+		</br>
+		</br>
+		<a href="Mem_AddListSql/beanToBean">路线导入到区域</a>
+		</br>
+		</br>
+		</br>
+		<a href="Mem_AddListSql/iiToDc">路线授权导入地区授权</a>
+		</br>
+		</br>
+		</br>
+		<a href="Mem_AddListSql/visitToNew">老版业务拜访导入新版</a>
+		</br>
+		</br>
+		</br>
+		<a href="Mem_AddListSql/updateBehaviorDetail">用于更新行为子表</a>
+		</br>
+		</br>
+		</br>
+		<a href="Ba_BusPartner/download">测试下载</a>
+		</br>
+		</br>
+		</br>
+		<a href="Mem_AddListSql/updatePartnerName">拼接地址</a>
+		</br>
+		</br>
+		</br>
+		<a href="Mem_AddListSql/addPerson">测试添加人员</a>
+		</br>
+		</br>
+		</br>
+		<a href="Mem_AddListSql/testTPlus">测试T+接口</a>
+</body>
+</html>
